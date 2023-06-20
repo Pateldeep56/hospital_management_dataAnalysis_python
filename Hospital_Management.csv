@@ -1,0 +1,251 @@
+Patient_ID,Patient_Name,Patient_Age,Patient_Address,Doctor_Name,Doctor_Age,Room_Type,Staff_Name,Billing,Pharmacy,Equipment_Type,Hospital_Rating,Hospital_Type,Hospital_Address,Feedback,InPatient,Hospital_Performance,Hospital_Fees
+1,Mohammed,21,AhmedaGeneral,Dr.Amit,32,ICU,Ram,Cash,InHouse,Diagnostic Tools,1,General,AhmedaGeneral,Bad,1,Bad,15000
+2,Sunita,22,Surat,Dr.Vikas,41,ICU,Raj,Card,Retail,Treatment Equipment,2,Specialized,Surat,Bad,0,Bad,1300
+3,Amit,38,Rajkot,Dr.Shivani,39,Private,Shyam,Card,Compounding,Surgical Equipment,5,Private,Rajkot,Excellent,0,Good,12000
+4,Anita,47,Vadodara,Dr.Ajit,58,Private,Megha,Insurance,Mail Order,Treatment Equipment,4,Private,Vadodara,Average,1,Good,1350
+5,Santosh,14,Mumbai,Dr.Vikram,64,Private,Riya,Cash,Compounding,Surgical Equipment,3,General,Mumbai,Good,1,Bad,1225
+6,Sanjay,49,Delhi,Dr.Pooja,33,Isolation,Shivani,Card,Retail,Diagnostic Tools,3,Specialized,Delhi,Average,1,Bad,500
+7,Sunil,62,Lucknow,Dr.Priya,45,Operation Room,Palak,Insurance,InHouse,Diagnostic Tools,3,Private,Lucknow,Excellent,1,Bad,1658
+8,Rajesh,69,HyderaGeneral,Dr.Vivek,71,Semi-Private,Dev,Cash,Mail Order,Treatment Equipment,2,Specialized,HyderaGeneral,Good,0,Bad,3000
+9,Geeta,73,Bangalore,Dr.Arvinder,57,Semi-Private,Prem,Card,InHouse,Surgical Equipment,1,General,Bangalore,Good,1,Bad,2500
+10,Raju,19,Chennai,Dr.Shyam,38,Private,Sanjay,Card,InHouse,Treatment Equipment,5,General,Chennai,Good,0,Good,1360
+11,Ashok,18,Pune,Dr.Subhash,34,Isolation,Sunil,Cash,InHouse,Diagnostic Tools,5,Specialized,Pune,Good,1,Good,1860
+12,Rekha,11,Mohali,Dr.Abhay,47,Operation Room,Rajesh,Insurance,Retail,Diagnostic Tools,4,Private,Mohali,Average,1,Good,1750
+13,Manoj,32,Dahod,Dr.Satish,48,Semi-Private,Geeta,Card,Compounding,Diagnostic Tools,3,General,Dahod,Good,0,Bad,6800
+14,Anil,28,Godhra,Dr.Vijay,44,Private,Raju,Cash,Mail Order,Treatment Equipment,5,Specialized,Godhra,Excellent,0,Good,11000
+15,Suresh,37,Bharuch,Dr.Aman,52,Private,Ashok,Cash,InHouse,Diagnostic Tools,1,Private,Bharuch,Average,1,Bad,1500
+16,Vijay,14,Gandhinagar,Dr.Chandni,36,Isolation,Rekha,Card,InHouse,Treatment Equipment,2,Specialized,Gandhinagar,Good,1,Bad,1300
+17,Lakshmi,49,Surat,Dr.Naresh,67,Operation Room,Manoj,Card,InHouse,Surgical Equipment,5,General,Surat,Good,1,Good,1450
+18,Mohit,62,Rajkot,Dr.Raj,76,Semi-Private,Anil,Insurance,Retail,Treatment Equipment,2,Specialized,Rajkot,Bad,1,Bad,12000
+19,Abdul,69,AhmedaGeneral,Dr.Gyan,56,ICU,Suresh,Cash,Compounding,Surgical Equipment,3,Private,AhmedaGeneral,Average,0,Bad,1225
+20,Mohan,83,Ahmedabad,Dr.Manjeet,69,Isolation,Vijay,Insurance,Mail Order,Diagnostic Tools,4,General,Ahmedabad,Excellent,1,Good,500
+21,Raju,19,Gandhinagar,Dr.Priyanshu,33,Private,Mohan,Cash,InHouse,Diagnostic Tools,3,Specialized,Gandhinagar,Good,0,Bad,1658
+22,Naresh,18,Jaipur,Dr.Vishwas,29,Private,Raju,Card,InHouse,Treatment Equipment,4,Private,Jaipur,Good,1,Good,3000
+23,Sharman,21,Mumbai,Dr.Palak,40,Isolation,Suresh,Cash,Retail,Surgical Equipment,5,Private,Mumbai,Excellent,0,Good,2500
+24,Vinod,22,Delhi,Dr.Seema,50,Operation Room,Harshil,Card,Compounding,Treatment Equipment,1,Private,Delhi,Bad,1,Bad,1360
+25,Suman,38,Surat,Dr.Uday,60,Semi-Private,Kiran,Insurance,Mail Order,Diagnostic Tools,5,General,Surat,Average,0,Good,1860
+26,Rajendra,47,Vadodara,Dr.Anil,53,Private,Ajay,Cash,Mail Order,Diagnostic Tools,1,Specialized,Vadodara,Good,0,Bad,1750
+27,Raj,14,Ahmedabad,Dr.Mira,42,Semi-Private,Mahesh,Cash,Retail,Diagnostic Tools,2,Private,Ahmedabad,Average,0,Bad,6800
+28,Usha,49,Surat,Dr.Kiran,54,Isolation,Rakesh,Card,InHouse,Treatment Equipment,5,Specialized,Surat,Excellent,1,Good,11000
+29,Asha,42,Rajkot,Dr.Kirti,66,ICU,Mohan,Insurance,Retail,Diagnostic Tools,4,General,Rajkot,Good,1,Bad,3200
+30,Dinesh,39,Vadodara,Dr.Ashok,32,ICU,Raju,Card,Retail,Treatment Equipment,3,Specialized,Vadodara,Bad,1,Bad,1860
+31,Rakesh,73,Mumbai,Dr.Hemant,41,ICU,Naresh,Cash,InHouse,Surgical Equipment,4,Private,Mumbai,Excellent,0,Good,1300
+32,Krishna,19,Delhi,Dr.Sandeep,39,ICU,Sharman,Card,Retail,Treatment Equipment,3,General,Delhi,Average,1,Bad,1450
+33,Meena,58,Lucknow,Dr.Abhishek,58,Private,Vinod,Card,Compounding,Surgical Equipment,2,Specialized,Lucknow,Good,0,Bad,1350
+34,Kiran,11,Hyderabad,Dr.Ashwin,64,Private,Suman,Cash,Mail Order,Diagnostic Tools,1,Private,Hyderabad,Average,1,Bad,1658
+35,Dilip,22,Bangalore,Dr.Rahul,33,Private,Rajendra,Cash,InHouse,Diagnostic Tools,5,Private,Bangalore,Good,0,Good,18000
+36,Pooja,68,Chennai,Dr.Rajni,45,Isolation,Raj,Card,Retail,Treatment Equipment,5,Private,Chennai,Good,1,Good,3200
+37,Ajay,92,Pune,Dr.Kusum,71,Operation Room,Usha,Insurance,Compounding,Surgical Equipment,4,General,Pune,Excellent,0,Good,2500
+38,Laxman,14,Mohali,Dr.Abhimanyu,57,Semi-Private,Asha,Cash,InHouse,Treatment Equipment,3,Specialized,Mohali,Average,0,Bad,1360
+39,Urmila,44,Dahod,Dr.Ronak,38,Isolation,Dinesh,Card,Retail,Diagnostic Tools,5,Private,Dahod,Good,0,Good,800
+40,Mukesh,62,Godhra,Dr.Prashant,34,ICU,Dakshesh,Insurance,Compounding,Diagnostic Tools,1,General,Godhra,Bad,1,Bad,1500
+41,Ajit,31,Dahod,Dr.Meet,47,ICU,Tanmay,Cash,InHouse,Diagnostic Tools,2,Private,Dahod,Average,1,Bad,1200
+42,Sita,73,Godhra,Dr.Neel,48,ICU,Kaushal,Cash,Retail,Treatment Equipment,5,General,Godhra,Good,1,Good,6800
+43,Rohan,19,Bharuch,Dr.Hitesh,44,ICU,Prerna,Card,Compounding,Surgical Equipment,2,Specialized,Bharuch,Average,0,Bad,30000
+44,Sanjay,18,Gandhinagar,Dr.Arun,52,Private,Yash,Insurance,Mail Order,Treatment Equipment,3,General,Gandhinagar,Bad,1,Bad,13000
+45,Shankar,99,Surat,Dr.Akshay,36,Private,Krupa,Insurance,Compounding,Diagnostic Tools,4,Private,Surat,Excellent,1,Good,3000
+46,Mahendra,30,Rajkot,Dr.Vinita,67,Private,Vishwa,Card,Retail,Diagnostic Tools,3,General,Rajkot,Average,0,Bad,2500
+47,Ravi,33,Ahmedabad,Dr.Nitin,76,Isolation,Viral,Card,InHouse,Treatment Equipment,4,Specialized,Ahmedabad,Excellent,1,Good,800
+48,Lalit,77,Ahmedabad,Dr.Anjali,56,Operation Room,Animesh,Cash,Mail Order,Surgical Equipment,5,Private,Ahmedabad,Excellent,0,Good,1200
+49,Radha,54,Gandhinagar,Dr.Janvi,69,Private,Naman,Insurance,InHouse,Treatment Equipment,1,General,Gandhinagar,Bad,1,Bad,1450
+50,Seema,15,Vadodara,Dr.Aditya,80,Operation Room,Divyesh,Card,InHouse,Surgical Equipment,5,Private,Vadodara,Good,1,Good,1350
+51,Smit,21,Surat,Dr.Arya,78,Private,Suresh,Cash,InHouse,Diagnostic Tools,4,Private,Surat,Good,1,Good,1225
+52,Dhaval,25,Palnpur,Dr.Dhaval,70,Semi-Private,Harshil,Cash,Retail,Diagnostic Tools,5,General,Rajkot,Good,0,Good,13000
+53,Axay,30,Mahesana,Dr.Bhavik,80,Private,Kiran,Insurance,Compounding,Treatment Equipment,4,General,Gandhinagar,Average,1,Good,5000
+54,Nimesh,28,Ahmedabad,Dr.Shah,75,Semi-Private,Ajay,Card,Mail Order,Surgical Equipment,4,Specialized,Rajkot,Good,1,Good,3000
+55,Alex,30,Rajkot,Dr.Kamlesh,58,Private,Mahesh,Cash,InHouse,Treatment Equipment,3,General,Vadodra,Good,1,Bad,15000
+56,Elish,25,Surat,Dr.Prince,55,Private,Rakesh,Cash,Retail,Diagnostic Tools,5,Private,Surat,Good,0,Good,18500
+57,Razz,30,Mahesana,Dr.Vatsal,50,Semi-Private,Ajay,Card,Compounding,Diagnostic Tools,5,General,Patan,Good,1,Good,1600
+58,Girish,30,Mahesana,Dr.Pinal,50,Private,Anil,Insurance,Mail Order,Diagnostic Tools,4,Specialized,Gandhinagar,Excellent,1,Good,900
+59,Priya,28,Surat,Dr.Binal,58,Semi-Private,Kirti,Cash,Compounding,Treatment Equipment,3,General,Ahmedabad,Bad,0,Bad,9500
+60,Divya,32,Rajkot,Dr.Jinal,60,Private,Rakesh,Card,Retail,Diagnostic Tools,5,Specialized,Surat,Excellent,1,Good,1360
+61,Kaya,30,Surat,Dr.Kalpana,58,General,Kirti,Card,InHouse,Treatment Equipment,2,General,Surat,Bad,0,Bad,1500
+62,Kunj,30,Vadodra,Dr.Sonal,54,Private,Mohan,Cash,Mail Order,Surgical Equipment,4,Specialized,Bharuch,Good,1,Good,1200
+63,Kiran,21,Mahesana,Dr. K.D,55,Semi-Private,Raju,Cash,InHouse,Treatment Equipment,3,Specialized,Surat,Average,1,Bad,12000
+64,Parth,25,Surat,Dr.Parth,85,General,Naresh,Card,InHouse,Surgical Equipment,5,Private,Junagadh,Good,1,Good,1225
+65,Chetan,30,Vadodra,Dr.Hetal,55,ICU,Sharman,Insurance,InHouse,Diagnostic Tools,2,Specialized,Bhavnagar,Good,1,Bad,1658
+66,Ram,26,Palanpur,Dr.Shah,66,ICU,Vinod,Cash,Retail,Diagnostic Tools,4,Specialized,Ahmedabad,Good,1,Good,13000
+67,Shaym,22,Mahesana,Dr.Mittal,62,Semi-Private,Suman,Card,Compounding,Treatment Equipment,5,General,Gandhinagr,Excellent,0,Good,5000
+68,Kiran,25,Surat,Dr.Harsh,66,Operation Room,Rajendra,Insurance,Mail Order,Surgical Equipment,2,Private,Kutch,Average,1,Bad,3000
+69,Denish,25,Gandhidham,Dr.Chirag,56,Private,Raj,Insurance,Mail Order,Treatment Equipment,4,Specialized,Patan,Good,1,Good,3200
+70,Bhavik,23,Bhuj,Dr.Pratik,42,Operation Room,Usha,Cash,Mail Order,Diagnostic Tools,3,General,Ahmedabad,Good,1,Bad,2500
+71,Pruthvi,25,Rajkot,Dr.Alex,44,Semi-Private,Asha,Card,InHouse,Diagnostic Tools,5,Specialized,Ahmedabad ,Good,1,Good,17000
+72,Piyush,26,Surat,Dr.Aayush,35,General,Dinesh,Cash,Retail,Diagnostic Tools,4,Specialized,Surat,Average,1,Good,1225
+73,Mrunal,28,Surat,Dr.Vatsal,36,Private,Dakshesh,Insurance,Compounding,Treatment Equipment,5,Specialized,Rajkot,Good,1,Good,500
+74,Alex,27,Gandhinagar,Dr.Gaurav,26,Private,Tanmay,Cash,Mail Order,Diagnostic Tools,5,Private,Surat,Good,1,Good,13000
+75,Parth,32,Krnavati,Dr.Ajay,36,General,Kaushal,Cash,Compounding,Treatment Equipment,2,Private,Kutch,Bad,1,Bad,5000
+76,Rahul,23,Gandhinagar,Dr.Parth,63,Semi-Private,Prerna,Card,Retail,Surgical Equipment,3,General,Palanpur,Average,1,Bad,25000
+77,Nimesh,20,Bharuch,Dr.Nilesh,45,Semi-Private,Yash,Insurance,InHouse,Treatment Equipment,1,Specialized,Krnavati,Good,0,Bad,1600
+78,Aayush,26,Vdodra,Dr.Hitesh,24,Private,Krupa,Insurance,Mail Order,Surgical Equipment,0,General,Gandhinagar,Bad,0,Bad,1950
+79,Prince,29,Rajkot,Dr.Mahesh,30,General,Vishwa,Insurance,InHouse,Diagnostic Tools,4,Private,Mahesana,Average,1,Good,13000
+80,Shailesh,20,Surat,Dr.Ram,32,ICU,Viral,Insurance,InHouse,Diagnostic Tools,2,Specialized,Surat,Good,1,Bad,900
+81,Pallvi,23,Surat,Dr.Alex,26,Private,Animesh,Cash,InHouse,Treatment Equipment,5,Specialized,Rajkot,Good,1,Good,1450
+82,Kalyani,25,Rajkot,Dr.Vikas,28,General,Naman,Card,Retail,Surgical Equipment,3,Private,Mahesana,Average,1,Bad,12000
+83,Pushpa,28,Surat,Dr.Sachin,30,Semi-Private,Divyesh,Cash,Compounding,Treatment Equipment,3,Specialized,Gandhinagar,Good,1,Bad,1350
+84,Kiran,29,Mahesana,Dr.Smith,33,Private,Raju,Insurance,Mail Order,Diagnostic Tools,4,Private,Krnavati,Good,1,Good,1225
+85,Krishna,33,Rajkot,Dr.Dhaval,38,General,Suresh,Card,InHouse,Diagnostic Tools,4,General,Mahesana,Average,1,Good,500
+86,Arjun,25,Surat,Dr.Harsh,40,ICU,Ram,Card,Retail,Diagnostic Tools,4,General,Mahesana,Good,1,Good,1658
+87,Dilip,28,Palanpur,Dr.Kalp,36,Private,Bhagyashree,Cash,InHouse,Treatment Equipment,2,Private,Gandhinagar,Bad,0,Bad,13000
+88,Aakash,30,Mahesana,Dr.Nikhkil,40,Semi-Private,Bhavesh,Cash,Retail,Treatment Equipment,3,Specialized,Surat,Good,1,Bad,18000
+89,Dinesh,28,Palanpur,Dr.Alap,32,Private,Manoj,Card,Compounding,Surgical Equipment,4,General,Palanpur,Average,1,Good,5000
+90,Nimesh,30,Mahesana,Dr.Kaya,40,Private,Naresh,Insurance,Mail Order,Treatment Equipment,5,Specialized,Mahesana,Good,1,Good,1225
+91,Ankit,36,Gandhinagar,Dr.Mahesh,50,Private,Sonal,Insurance,Compounding,Surgical Equipment,3,Private,Surat,Average,1,Bad,5000
+92,Mital,40,Kutch,Dr.Ramila,50,ICU,Saloni,Cash,Retail,Diagnostic Tools,5,Specialized,Krnavati,Good,1,Good,3000
+93,Jinal,23,Rajkot,Dr.Vidhi,42,General,Khushi,Cash,InHouse,Treatment Equipment,3,General,Mahesana,Average,1,Bad,3200
+94,Aarti,45,Mahesana,Dr.Jagruti,38,Private,Sonal,Card,Mail Order,Surgical Equipment,4,Private,Kutch,Good,1,Good,2500
+95,Kruti,39,Surat,Dr.Manisha,56,General,Mohan,Card,InHouse,Treatment Equipment,1,Private,Rajkot,Bad,0,Bad,1860
+96,Kalpna,42,Gandhinagar,Dr.Ankita,54,Private,Raju,Cash,InHouse,Surgical Equipment,5,Specialized,Surat,Good,1,Good,1750
+97,Mayank,23,Rajkot,Dr.Vijay,55,Private,Naresh,Cash,InHouse,Diagnostic Tools,4,General,Mahesana,Good,1,Good,6800
+98,Viral,25,Surat,Dr.Alpesh,40,Semi-Private,Sharman,Card,Retail,Diagnostic Tools,3,Private,Gandhinagar,Bad,1,Bad,8900
+99,Vikin,29,Gandhinagar,Dr.Ram,46,General,Vinod,Cash,Compounding,Treatment Equipment,2,Specialized,Suart,Average,0,Bad,30000
+100,Amit,35,Mahesana,Dr.Rahul,40,Private,Suman,Insurance,Mail Order,Surgical Equipment,5,General,Rajkot,Good,1,Good,1300
+101,Devika,23,Ahmedabad,Dr.Dev,50,ICU,Rajendra,Cash,Retail,Treatment Equipment,1,General,Ahmedabad,Bad,1,Bad,1350
+102,Vardan,24,Mumbai,Dr.Shila,36,ICU,Raj,Cash,Compounding,Diagnostic Tools,2,Private,Mumbai,Average,0,Bad,1225
+103,Param,25,Pune,Dr Shukla,65,Semi-Private,Usha,Card,Mail Order,Diagnostic Tools,5,Private,Pune,Good,1,Good,500
+104,Dharam,65,Mumbai,Dr.Shila,45,ICU,Asha,Card,InHouse,Diagnostic Tools,4,Specialized,Mumbai,Excellent,0,Good,13000
+105,Jayveer,24,Rajkot,Dr.Paras,60,General,Dinesh,Insurance,Retail,Treatment Equipment,3,General,Rajkot,Average,0,Bad,18000
+106,Kandarb,45,Ahmedabad,Dr.Dev,32,ICU,Dakshesh,Cash,Compounding,Treatment Equipment,4,General,Ahmedabad,Average,1,Good,5000
+107,Pratiksha,85,Kolkata,Dr.Gandhi,54,Semi-Private,Tanmay,Card,Mail Order,Surgical Equipment,3,Specialized,Kolkata,Good,0,Bad,3000
+108,Ranjan,14,Banglore,Dr.Nirav,52,ICU,Kaushal,Insurance,Compounding,Treatment Equipment,2,Specialized,Banglore,Good,0,Bad,3200
+109,Jagruti,26,Bihar,Dr.Kirit,68,Private,Prerna,Insurance,Retail,Diagnostic Tools,4,General,Bihar,Average,1,Good,800
+110,Nidhi,16,Jodhpur,Dr.Kirit,74,General,Yash,Cash,InHouse,Treatment Equipment,3,Specialized,Jodhpur,Good,0,Bad,1860
+111,Rashmika,54,Ahmedabad,Dr.Dev,49,Private,Krupa,Card,Mail Order,Diagnostic Tools,1,General,Ahmedabad,Average,1,Bad,2600
+112,AshmitA,37,Jodhpur,Dr.Kajal,65,ICU,Vishwa,Cash,InHouse,Diagnostic Tools,2,Private,Jodhpur,Good,1,Bad,3600
+113,Parth,58,Banglore,Dr.Nirav,38,General,Viral,Insurance,InHouse,Diagnostic Tools,5,Private,Banglore,Good,0,Good,8900
+114,Mitansh,62,Kolkata,Dr.Gandhi,65,ICU,Animesh,Cash,InHouse,Treatment Equipment,4,Specialized,Kolkata,Good,0,Good,11000
+115,Vaedansh,42,Ahmedabad,Dr.Dev,42,ICU,Naman,Cash,Retail,Diagnostic Tools,3,General,Ahmedabad,Average,1,Bad,30000
+116,Aditya,73,Pune,Dr.Shukla,51,Private,Divyesh,Card,Compounding,Treatment Equipment,2,Specialized,Pune,Bad,1,Bad,13000
+117,Vivan,76,Mumbai,Dr.Shila,49,ICU,Harshil,Insurance,Mail Order,Surgical Equipment,1,General,Mumbai,Average,0,Bad,18000
+118,Apeksha,75,Jodhpur,Dr.Kajal,66,Private,Kiran,Insurance,Compounding,Treatment Equipment,4,Specialized,Jodhpur,Average,0,Good,5000
+119,Ravina,65,Ahmedabad,Dr.Dev,55,Private,Ajay,Insurance,InHouse,Surgical Equipment,5,General,Ahmedabad,Good,1,Good,3200
+120,Rushika,35,Surat,Dr.Kirit,32,ICU,Mahesh,Insurance,Retail,Diagnostic Tools,3,Specialized,Surat,Average,0,Bad,2500
+121,Disha,82,Mumbai,Dr.Shila,71,Private,Rakesh,Cash,Compounding,Diagnostic Tools,4,General,Mumbai,Average,1,Good,800
+122,Reena,46,Udaipur,Dr.Kajal,63,ICU,Ajay,Card,Mail Order,Treatment Equipment,2,Specialized,Udaipur,Bad,0,Bad,1860
+123,Divya,47,Kolkata,Dr.Gandhi,62,Private,Anil,Cash,Compounding,Surgical Equipment,4,Specialized,Kolkata,Good,1,Good,1500
+124,Janvi,39,Surat,Dr.Kirit,58,Semi-Private,Kirti,Insurance,Retail,Treatment Equipment,2,General,Surat,Average,0,Bad,12000
+125,Aditya,23,Ahmedabad,Dr.Dev,38,Semi-Private,Rakesh,Card,InHouse,Diagnostic Tools,5,Private,Ahmedabad,Good,1,Good,1350
+126,Vaidehi,29,Pune,Dr.Shukla,44,General,Kirti,Card,Mail Order,Diagnostic Tools,1,Specialized,Pune,Bad,1,Bad,1225
+127,kiran,45,Banglore,Dr.Nirav,47,Private,Mohan,Cash,InHouse,Diagnostic Tools,4,General,Banglore,Good,1,Good,500
+128,Brijendra,27,Udaipur,Dr.Kajal,75,Private,Raju,Cash,InHouse,Treatment Equipment,2,Private,Udaipur,Bad,0,Bad,1658
+129,Virendra,36,Ahmedabad,Dr.Kajal,46,ICU,Naresh,Card,InHouse,Treatment Equipment,1,Specialized,Ahmedabad,Average,1,Bad,13000
+130,Ashirvad,39,Jodhpur,Dr.Kajal,67,ICU,Sharman,Insurance,Retail,Surgical Equipment,4,General,Jodhpur,Average,0,Good,3000
+131,Pratham,85,Jodhpur,Dr.Kajal,33,Private,Vinod,Insurance,Compounding,Treatment Equipment,2,Specialized,Jodhpur,Bad,1,Bad,5000
+132,Sumit,45,Mumbai,Dr.Shila,64,ICU,Suman,Cash,Mail Order,Surgical Equipment,3,General,Mumbai,Average,1,Bad,3000
+133,Utsav,21,Bihar,Dr.Kirit,87,ICU,Rajendra,Cash,InHouse,Diagnostic Tools,4,Specialized,Bihar,Excellent,0,Good,3200
+134,Radha,52,Mumbai,Dr.Kajal,54,General,Raj,Card,Retail,Treatment Equipment,5,Specialized,Mumbai,Good,1,Good,2500
+135,Het,70,Bihar,Dr.Kirit,77,General,Usha,Cash,Compounding,Surgical Equipment,2,General,Bihar,Bad,0,Bad,14600
+136,Dharam,26,Banglore,Dr.Nirav,51,ICU,Asha,Card,Mail Order,Treatment Equipment,3,Private,Banglore,Average,0,Bad,1200
+137,Shraddha,58,Kolkata,Dr.Gandhi,63,Private,Khushi,Cash,Compounding,Surgical Equipment,2,Private,Kolkata,Bad,1,Bad,1450
+138,Dakshesh,96,Bihar,Dr.Kirit,38,ICU,Namrata,Cash,Retail,Diagnostic Tools,5,Specialized,Bihar,Excellent,1,Good,13000
+139,Tanmay,20,Ahmedabad,Dr.Dev,74,Private,Aisha,Insurance,InHouse,Diagnostic Tools,4,General,Ahmedabad,Good,0,Good,18000
+140,Kaushal,24,Bihar,Dr.Kirit,65,Private,Anu,Cash,Mail Order,Treatment Equipment,1,Specialized,Bihar,Bad,0,Bad,5000
+141,Prerna,75,Mumbai,Dr.Gandhi,80,Semi-Private,Bhumi,Card,InHouse,Surgical Equipment,2,General,Mumbai,Average,1,Bad,3200
+142,Yash,86,Ahmedabad,Dr.Dev,70,Private,Harshil,Insurance,InHouse,Treatment Equipment,5,General,Ahmedabad,Excellent,0,Good,800
+143,Krupa,35,Pune,Dr.Shukla,60,Private,Kiran,Insurance,InHouse,Diagnostic Tools,3,Specialized,Pune,Average,0,Bad,2600
+144,Vishwa,36,Kolkata,Dr.Gandhi,57,ICU,Ajay,Cash,Retail,Diagnostic Tools,4,Specialized,Kolkata,Good,0,Good,3600
+145,Viral,65,Ahmedabad,Dr.Dev,49,Private,Mahesh,Card,Compounding,Diagnostic Tools,1,General,Ahmedabad,Bad,1,Bad,8900
+146,Animesh,58,Mumbai,Dr.Shila,58,Private,Rakesh,Cash,Mail Order,Treatment Equipment,5,Private,Mumbai,Excellent,0,Good,30000
+147,Naman,57,Mumbai,Dr.Shila,43,Private,Ajay,Insurance,InHouse,Treatment Equipment,2,Specialized,Mumbai,Average,1,Bad,1200
+148,Divyesh,49,Pune,Dr.Shukla,57,ICU,Anil,Cash,Retail,Surgical Equipment,5,Private,Pune,Good,1,Good,1350
+149,Vinayak,86,Ahmedabad,Dr.Dev,25,ICU,Kirti,Cash,Compounding,Treatment Equipment,4,Private,Ahmedabad,Average,0,Good,13000
+150,Prerna,76,Banglore,Dr.Nirav,58,ICU,Rakesh,Card,Mail Order,Diagnostic Tools,2,Specialized,Banglore,Bad,0,Bad,18000
+151,Mohit,25,Ahmedabad,Dr.Vikas,76,Semi-Private,Kirti,Insurance,Mail Order,Treatment Equipment,3,General,Ahmedabad,Average,1,Bad,5000
+152,Rohit,70,Surat,Dr.Shivani,56,Private,Mohan,Insurance,Retail,Diagnostic Tools,3,General,Surat,Good,0,Bad,3200
+153,Raj,55,Ahmedabad,Dr.Ajit,69,Private,Raju,Insurance,InHouse,Diagnostic Tools,3,Specialized,Ahmedabad,Average,1,Bad,800
+154,Smith,56,Ahmedabad,Dr.Vikram,33,ICU,Naresh,Insurance,Retail,Diagnostic Tools,4,General,Ahmedabad,Excellent,0,Good,2600
+155,Karan,42,Bangalore,Dr.Pooja,29,Semi-Private,Sharman,Cash,Compounding,Treatment Equipment,5,Private,Bangalore,Excellent,0,Good,3600
+156,Mohan,35,Pune,Dr.Priya,40,Semi-Private,Vinod,Card,Mail Order,Diagnostic Tools,4,Specialized,Pune,Good,0,Good,8900
+157,Aashish,60,Surat,Dr.Vivek,50,ICU,Suman,Cash,Compounding,Treatment Equipment,4,General,Surat,Excellent,0,Good,30000
+158,Anil,38,Palanpur,Dr.Arvinder,60,ICU,Rajendra,Insurance,Retail,Surgical Equipment,4,General,Palanpur,Good,0,Good,13000
+159,Amit,34,Jodhpur,Dr.Shyam,53,Private,Raj,Card,InHouse,Treatment Equipment,4,General,Jodhpur,Good,0,Good,18000
+160,Chirag,43,Kolkata,Dr.Subhash,42,ICU,Usha,Card,Mail Order,Surgical Equipment,4,Specialized,Kolkata,Good,0,Good,5000
+161,Dimple,40,Udaipur,Dr.Abhay,54,Isolation,Asha,Cash,InHouse,Diagnostic Tools,2,Specialized,Udaipur,Average,1,Bad,3000
+162,Shruti,29,Delhi,Dr.Satish,66,Private,Bhumika,Cash,InHouse,Diagnostic Tools,2,General,Delhi,Bad,1,Bad,2500
+163,Gautam,57,Delhi,Dr.Vijay,32,General,Krupa,Card,InHouse,Treatment Equipment,2,General,Delhi,Bad,1,Bad,1360
+164,Gopal,50,Bihar,Dr.Aman,41,General,Rajni,Insurance,Retail,Surgical Equipment,1,Private,Bihar,Bad,0,Bad,800
+165,Hitesh,68,Bihar,Dr.Chandni,39,General,Harshil,Insurance,Compounding,Treatment Equipment,1,Private,Bihar,Bad,0,Bad,1500
+166,Harendra,66,Kolkata,Dr.Naresh,58,General,Kiran,Cash,Mail Order,Diagnostic Tools,1,Private,Kolkata,Bad,0,Bad,1200
+167,Nitesh,79,Mumbai,Dr.Raj,64,General,Ajay,Cash,InHouse,Diagnostic Tools,1,Private,Mumbai,Bad,1,Bad,12000
+168,Naresh,71,Mumbai,Dr.Gyan,33,ICU,Mahesh,Card,InHouse,Diagnostic Tools,3,Private,Mumbai,Average,1,Bad,1225
+169,Nitin,55,Mumbai,Dr.Manjeet,45,ICU,Rakesh,Cash,Retail,Treatment Equipment,3,General,Mumbai,Bad,0,Bad,500
+170,Himanshu,66,Ahmedabad,Dr.Priyanshu,71,Private,Ajay,Insurance,InHouse,Treatment Equipment,4,General,Ahmedabad,Good,0,Good,13000
+171,Saloni,33,Surat,Dr.Vishwas,57,ICU,Anil,Cash,Retail,Surgical Equipment,5,Specialized,Surat,Excellent,0,Good,5000
+172,Sahil,73,Ahmedabad,Dr.Palak,38,ICU,Kirti,Card,Compounding,Treatment Equipment,5,Specialized,Ahmedabad,Excellent,1,Good,3000
+173,Sankalp,44,Ahmedabad,Dr.Seema,34,ICU,Rakesh,Insurance,Mail Order,Surgical Equipment,5,Specialized,Ahmedabad,Excellent,1,Good,5000
+174,Parul,46,Mumbai,Dr.Uday,47,ICU,Kirti,Insurance,Compounding,Diagnostic Tools,5,Specialized,Mumbai,Excellent,1,Good,3000
+175,Pankaj,72,Surat,Dr.Anil,48,Private,Mohan,Cash,Retail,Treatment Equipment,5,Specialized,Surat,Excellent,0,Good,1860
+176,Palak,69,Surat,Dr.Mira,44,ICU,Raju,Card,InHouse,Surgical Equipment,4,Specialized,Surat,Excellent,1,Good,1300
+177,Pritam,55,Surat,Dr.Kiran,52,Isolation,Naresh,Cash,Mail Order,Treatment Equipment,3,General,Surat,Average,0,Bad,3600
+178,Roshan,54,Jodhpur,Dr.Kirti,36,Private,Sharman,Insurance,InHouse,Surgical Equipment,4,Specialized,Jaipur,Excellent,1,Good,8900
+179,Ramesh,23,Rajkot,Dr.Ashok,67,General,Vinod,Cash,InHouse,Diagnostic Tools,4,Specialized,Rajkot,Average,0,Good,11000
+180,Vinay,50,Mahesana,Dr.Vikas,76,General,Suman,Cash,InHouse,Diagnostic Tools,5,General,Mahesana,Good,1,Good,18000
+181,Vivek,29,Mahesana,Dr.Shivani,56,General,Rajendra,Card,Retail,Treatment Equipment,5,General,Mahesana,Good,0,Good,5000
+182,Virendra,25,Surat,Dr.Ajit,69,General,Raj,Insurance,Compounding,Surgical Equipment,3,Private,Surat,Average,0,Bad,3200
+183,Naresh,23,Bangalore,Dr.Vikram,33,General,Usha,Insurance,Mail Order,Treatment Equipment,2,Private,Bangalore,Bad,0,Bad,1360
+184,Sharman,48,Bangalore,Dr.Mohan,29,ICU,Asha,Insurance,InHouse,Diagnostic Tools,2,Private,Bangalore,Average,0,Bad,1860
+185,Vinod,90,Ahmedabad,Dr.Kiara,40,ICU,Aisha,Insurance,InHouse,Diagnostic Tools,1,Private,Ahmedabad,Bad,0,Bad,1500
+186,Suman,88,Bangalore,Dr.Mohit,50,Private,Harshil,Cash,Retail,Diagnostic Tools,5,Specialized,Bangalore,Excellent,1,Good,12000
+187,Rajendra,72,Mumbai,Dr.Meena,60,ICU,Kiran,Card,Compounding,Treatment Equipment,4,Specialized,Mumbai,Good,1,Good,500
+188,Raj,42,Bihar,Dr.Sunita,53,ICU,Ajay,Cash,InHouse,Treatment Equipment,3,Private,Bihar,Average,1,Bad,1658
+189,Usha,23,Bihar,Dr.Arjun,42,General,Mahesh,Insurance,Retail,Surgical Equipment,3,General,Bihar,Average,1,Bad,18000
+190,Asha,28,Palanpur,Dr.Anil,54,Private,Rakesh,Card,Compounding,Treatment Equipment,4,Specialized,Palanpur,Excellent,1,Good,25000
+191,Dinesh,31,Palanpur,Dr.Sunil,66,General,Ajay,Card,Mail Order,Diagnostic Tools,3,Specialized,Palanpur,Average,0,Bad,1950
+192,Rakesh,38,Udaipur,Dr.Savan,32,Private,Anil,Cash,Compounding,Treatment Equipment,5,General,Udaipur,Excellent,0,Good,13000
+193,Tarun,36,Mumbai,Dr.Aakash,41,Private,Kirti,Cash,Retail,Diagnostic Tools,3,Specialized,Mumbai,Bad,0,Bad,800
+194,Meena,45,Jodhpur,Dr.Lalit,39,Semi-Private,Rakesh,Card,InHouse,Diagnostic Tools,4,Specialized,Jodhpur,Good,1,Good,1860
+195,Kiran,70,Rajkot,Dr.Meet,58,General,Kirti,Insurance,Mail Order,Diagnostic Tools,3,Specialized,Rajkot,Average,1,Bad,1300
+196,Dilip,54,Rajkot,Dr.Dhruv,64,Private,Mohan,Insurance,InHouse,Treatment Equipment,4,Private,Rajkot,Good,0,Good,1450
+197,Naresh,52,Jodhpur,Dr.Snehal,33,ICU,Raju,Cash,InHouse,Diagnostic Tools,3,Specialized,Jodhpur,Average,1,Bad,1350
+198,Sharman,63,Bangalore,Dr.Dhyey,45,ICU,Naresh,Cash,InHouse,Treatment Equipment,5,Specialized,Bangalore,Excellent,1,Good,500
+199,Vinod,75,Ahmedabad,Dr.Shyamal,71,Semi-Private,Sharman,Card,Retail,Surgical Equipment,4,Specialized,Ahmedabad,Good,0,Good,18000
+200,Rajendra,80,Mumbai,Dr.Ashwin,57,General,Vinod,Cash,Compounding,Treatment Equipment,5,Specialized,Mumbai,Excellent,1,Good,5000
+201,Ayaan,38,Pune,Dr.Divya,53,General,Suman,Insurance,Mail Order,Surgical Equipment,1,Private,Ahmedabad,Bad,1,Bad,3000
+202,Lakshmi,47,Jalandar,Dr.Avinash,56,ICU,Rajendra,Cash,InHouse,Diagnostic Tools,2,General,Ahmedabad,Bad,0,Bad,12000
+203,Ishaan,74,Nagpur,Dr.Pratima,35,Private,Raj,Card,Retail,Diagnostic Tools,2,Private,Surat,Average,0,Bad,1350
+204,Vishal,35,Gwalior,Dr.Padma,30,ICU,Usha,Insurance,Compounding,Treatment Equipment,4,Specialized,Ahmedabad,Good,1,Good,1658
+205,Advik,70,Bhopal,Dr.Darshan,43,ICU,Asha,Insurance,Mail Order,Surgical Equipment,2,Private,Ahmedabad,Bad,1,Bad,18000
+206,Gautam,49,Madurai,Dr.Aarushi,39,Semi-Private,Hetal,Cash,Compounding,Treatment Equipment,2,General,Mumbai,Average,0,Bad,3000
+207,Karan,73,Raipur,Dr.Aarav,25,Private,Harshil,Card,Retail,Diagnostic Tools,1,Specialized,Surat,Average,0,Bad,15000
+208,Ryka,77,Mumbai,Dr.Vishnu,42,Isolation,Kiran,Cash,InHouse,Diagnostic Tools,0,Private,Surat,Bad,0,Bad,18500
+209,Vaneet,34,Kochi,Dr.Madhur,54,Semi-Private,Ajay,Insurance,Mail Order,Diagnostic Tools,3,General,Surat,Good,0,Bad,9500
+210,Ishaan,76,Hyderabad,Dr.Mukta,26,Private,Mahesh,Cash,InHouse,Treatment Equipment,4,Specialized,Jodhpur,Good,1,Good,1360
+211,Abha,45,Chennai,Dr.Om,28,ICU,Rakesh,Cash,InHouse,Treatment Equipment,4,Private,Rajkot,Good,0,Good,800
+212,Kabir,24,Allahabad,Dr.Savitri,31,Private,Ajay,Card,InHouse,Surgical Equipment,0,General,Mahesana,Bad,0,Bad,1860
+213,Sandip,35,Udaipur,Dr.Anisha,54,ICU,Anil,Insurance,Retail,Treatment Equipment,0,General,Mahesana,Bad,1,Bad,1500
+214,Chandra,30,Bengaluru,Dr.Pratap,48,Semi-Private,Kirti,Insurance,Compounding,Surgical Equipment,5,Private,Surat,Excellent,0,Good,1300
+215,Anupam,61,Ujjain,Dr.Kajal,30,General,Rakesh,Insurance,Mail Order,Diagnostic Tools,2,Specialized,Bangalore,Bad,1,Bad,1200
+216,Suniti,41,Vadodara,Dr.Karthik,51,ICU,Kirti,Insurance,InHouse,Treatment Equipment,5,Specialized,Bangalore,Excellent,0,Good,3000
+217,Hari,67,Jodhpur,Dr.Apurva,45,Private,Mohan,Cash,Retail,Surgical Equipment,0,Private,Ahmedabad,Bad,0,Bad,5000
+218,Hrithik,65,Surat,Dr.Lochan,48,General,Raju,Card,Compounding,Treatment Equipment,3,Private,Bangalore,Average,1,Bad,3000
+219,Kamala,31,Kolkata,Dr.Anirudhha,36,Semi-Private,Naresh,Cash,Mail Order,Surgical Equipment,3,Private,Mumbai,Average,0,Bad,3200
+220,Pratibha,79,Pune,Dr.Vinita,52,Isolation,Sharman,Insurance,Compounding,Diagnostic Tools,3,General,Bihar,Average,1,Bad,2500
+221,Mohandas,32,Bihar,Dr.Minakshi,42,ICU,Vinod,Card,Retail,Diagnostic Tools,0,Specialized,Bihar,Bad,1,Bad,17000
+222,Shreya,69,Gandhinagar,Dr.Shiv,27,ICU,Suman,Card,InHouse,Treatment Equipment,0,General,Palanpur,Bad,0,Bad,12000
+223,Archana,30,Kolkata,Dr.Ansh,31,General,Rajendra,Cash,Mail Order,Surgical Equipment,0,General,Palanpur,Bad,0,Bad,500
+224,Nisha,64,Banglore,Dr.Kailash,27,ICU,Raj,Cash,InHouse,Treatment Equipment,5,Specialized,Udaipur,Excellent,1,Good,1658
+225,Aishwarya,45,Mahesana,Dr.Rajani,55,Private,Usha,Card,InHouse,Diagnostic Tools,3,Private,Mumbai,Average,1,Bad,13000
+226,Priti,37,Bharuch,Dr.Ankit,27,Isolation,Asha,Insurance,InHouse,Diagnostic Tools,1,General,Jodhpur,Bad,0,Bad,18000
+227,Chetan,49,Delhi,Dr.Aravind,49,Semi-Private,Snehal,Insurance,Retail,Diagnostic Tools,4,Private,Rajkot,Excellent,0,Good,1360
+228,Upasana,55,Nashik,Dr.Trishna,42,ICU,Harshil,Cash,Compounding,Treatment Equipment,3,Private,Rajkot,Average,0,Bad,800
+229,Darsh,78,Indore,Dr.Manjula,51,Semi-Private,Kiran,Cash,Mail Order,Treatment Equipment,1,Specialized,Jodhpur,Bad,1,Bad,2600
+230,Anita,39,Chennai,Dr.Rakesh,46,ICU,Ajay,Card,Retail,Surgical Equipment,2,General,Bangalore,Average,0,Bad,3600
+231,Akshay,58,Kanpur,Dr.Anjali,56,ICU,Mahesh,Cash,InHouse,Treatment Equipment,4,Private,Ahmedabad,Good,1,Good,11000
+232,Dharma,25,Aurangabad,Dr.Mira,53,Semi-Private,Rakesh,Cash,InHouse,Diagnostic Tools,4,Specialized,Mumbai,Good,0,Good,1500
+233,Raghav,54,Dehradun,Dr.Rani,53,ICU,Ajay,Insurance,Retail,Surgical Equipment,4,General,Pune,Good,1,Good,1200
+234,Pratiksha,49,Lucknow,Dr.Jivika,27,Isolation,Anil,Cash,Compounding,Diagnostic Tools,0,Specialized,Jalandar,Bad,1,Bad,1450
+235,Purnima,28,Mumbai,Dr.Kanti,39,Semi-Private,Kirti,Card,Mail Order,Treatment Equipment,1,Private,Nagpur,Average,1,Bad,12000
+236,Sudharshan,28,Rajkot,Dr.Kamini,39,General,Rakesh,Cash,Compounding,Treatment Equipment,2,General,Gwalior,Average,1,Bad,1658
+237,Rajani,38,Patna,Dr.Nishant,52,Semi-Private,Kirti,Insurance,Retail,Surgical Equipment,1,General,Bhopal,Bad,0,Bad,2500
+238,Rajesh,79,Jaipur,Dr.Devansh,45,ICU,Mohan,Card,InHouse,Treatment Equipment,1,General,Madurai,Bad,0,Bad,1360
+239,Avinash,20,Ujjain,Dr.Diti,33,ICU,Raju,Card,Mail Order,Diagnostic Tools,2,Specialized,Raipur,Average,0,Bad,1750
+240,Navya,53,Surat,Dr.Manish,29,General,Naresh,Insurance,InHouse,Surgical Equipment,5,Private,Mumbai,Excellent,1,Good,6800
+241,Mehul,24,Vadodara,Dr.Punit,43,Semi-Private,Sharman,Cash,InHouse,Treatment Equipment,5,Specialized,Kochi,Excellent,1,Good,3000
+242,Gita,60,Ahmedabad,Dr.Isha,28,Isolation,Vinod,Card,InHouse,Diagnostic Tools,3,Private,Hyderabad,Average,1,Bad,1360
+243,Anirudhh,52,Ahmedabad,Dr.Dharma,30,ICU,Suman,Insurance,Retail,Surgical Equipment,2,General,Chennai,Bad,0,Bad,1300
+244,Harsh,70,Bharuch,Dr.Mitra,33,Private,Rajendra,Card,Compounding,Diagnostic Tools,3,Private,Allahabad,Average,1,Bad,1200
+245,Ishani,62,Palanpur,Dr.Dipa,31,Semi-Private,Raj,Cash,Mail Order,Treatment Equipment,1,Specialized,Udaipur,Bad,0,Bad,1450
+246,Vanya,78,Gandhidham,Dr.Rishima,47,Semi-Private,Usha,Cash,Retail,Treatment Equipment,0,Private,Bengaluru,Bad,1,Bad,18000
+247,Priya,22,Surat,Dr.Jai,31,General,Asha,Card,InHouse,Surgical Equipment,4,Specialized,Ujjain,Good,1,Good,5000
+248,Chandrakant,41,Lucknow,Dr.Nikhil,36,ICU,Rajesh,Card,Retail,Treatment Equipment,4,Specialized,Vadodara,Good,1,Good,17000
+249,Shreya,64,Delhi,Dr.Tejas,60,Semi-Private,Ashok,Insurance,Mail Order,Diagnostic Tools,4,General,Jodhpur,Excellent,1,Good,12000
+250,Nisha,25,Ahmedabad,Dr.Vinay,43,Isolation,Mahendra,Cash,Compounding,Treatment Equipment,1,Specialized,Surat,Bad,1,Bad,13500
